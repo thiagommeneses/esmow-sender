@@ -1,0 +1,1 @@
+Projeto para envio de mensagens via WhatsApp e Web após checkin.

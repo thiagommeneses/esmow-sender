@@ -4,3 +4,6 @@
 //
 // Projeto CSAT Pós Check-in
 // Envio de mensagens da pesquisa para WhatsApp ou Web para clientes cadastrados.
+
+
+Fazer alterações e enviar o projeto ao GitHub. 
